@@ -26,4 +26,8 @@ VALUES ('Белая гвардия', 'Булгаков М.А.', 540.50, 5),
 SELECT author AS Автор, title as Название, price AS Цена
 FROM book;
 
+SELECT author, title, 
+    ROUND(IF(author = 'Булгаков М.А.', price * 1.1, IF(author = 'Есенин С.А.', price * 1.05, price)), 2) as new_price
+FROM book;
+
 SELECT * FROM book
