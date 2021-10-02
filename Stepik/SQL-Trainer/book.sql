@@ -23,7 +23,7 @@ VALUES ('Белая гвардия', 'Булгаков М.А.', 540.50, 5),
 ('Идиот', 'Достоевский Ф.М.', 460, 10),
 ('Братья Карамазовы', 'Достоевский Ф.М.', 799.01, 2);
 
-SELECT author, title, price
+SELECT author AS Автор, title as Название, price AS Цена
 FROM book;
 
 SELECT * FROM book
