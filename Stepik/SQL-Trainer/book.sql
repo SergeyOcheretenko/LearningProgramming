@@ -30,4 +30,8 @@ SELECT author, title,
     ROUND(IF(author = 'Булгаков М.А.', price * 1.1, IF(author = 'Есенин С.А.', price * 1.05, price)), 2) as new_price
 FROM book;
 
+SELECT title, author
+FROM book
+WHERE (price BETWEEN 540.50 AND 800) AND amount IN (2, 3, 5, 7);
+
 SELECT * FROM book
