@@ -39,4 +39,9 @@ FROM book
 WHERE amount BETWEEN 2 AND 14
 ORDER BY author DESC, title ASC
 
+SELECT title, author 
+FROM book
+WHERE title LIKE "_% _%" AND (author LIKE "% С._." OR author LIKE "% _.С.")
+ORDER BY title ASC;
+
 SELECT * FROM book
