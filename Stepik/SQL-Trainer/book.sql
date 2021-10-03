@@ -44,4 +44,6 @@ FROM book
 WHERE title LIKE "_% _%" AND (author LIKE "% С._." OR author LIKE "% _.С.")
 ORDER BY title ASC;
 
-SELECT * FROM book
+SELECT author AS Автор, COUNT(DISTINCT title) AS Различных_книг, SUM(amount) AS Количество_экземпляров
+FROM book
+GROUP BY author;
