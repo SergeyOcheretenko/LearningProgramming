@@ -34,6 +34,15 @@ SELECT title, author
 FROM book
 WHERE (price BETWEEN 540.50 AND 800) AND amount IN (2, 3, 5, 7);
 
+SELECT author,
+    COUNT(title) AS Количество_произведений,
+    MIN(price) AS Минимальная_цена,
+    SUM(amount) AS Количество_книг
+FROM book
+WHERE amount > 1 AND price > 500
+GROUP BY author
+HAVING COUNT(title) > 1;
+
 SELECT author, title
 FROM book
 WHERE amount BETWEEN 2 AND 14
