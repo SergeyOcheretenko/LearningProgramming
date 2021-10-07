@@ -57,3 +57,6 @@ SELECT author, ROUND(SUM(price * amount), 2) as Стоимость,
     ROUND(SUM(price * amount) / 1.18, 2) as Стоимость_без_НДС
 FROM book
 GROUP BY author;
+
+SELECT MIN(price) AS Минимальная_цена, MAX(price) AS Максимальная_цена, ROUND(AVG(price), 2) AS Средняя_цена
+FROM book;
