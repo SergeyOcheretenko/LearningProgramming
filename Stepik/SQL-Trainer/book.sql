@@ -76,3 +76,8 @@ WHERE title <> 'Идиот' AND title <> 'Белая гвардия'
 GROUP BY author
 HAVING SUM(price * amount) > 5000
 ORDER BY Стоимость DESC
+
+SELECT author, title, price
+FROM book
+WHERE price <= (SELECT AVG(price) FROM book)
+ORDER BY price DESC;
