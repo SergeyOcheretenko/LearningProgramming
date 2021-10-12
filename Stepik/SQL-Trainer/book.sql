@@ -107,3 +107,11 @@ WHERE price < ANY(
 SELECT title, author, amount, (SELECT MAX(amount) FROM book) - amount AS Заказ
 FROM book
 WHERE amount <> (SELECT MAX(amount) FROM book);
+
+SELECT author, title, price, amount, ROUND(
+    price * amount * 100 / (
+    SELECT SUM(price * amount)
+    FROM book
+    ), 2) AS Выручка_в_процентах
+FROM book
+ORDER BY Выручка_в_процентах DESC;
