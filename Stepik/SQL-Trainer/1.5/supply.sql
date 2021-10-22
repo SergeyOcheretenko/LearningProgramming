@@ -29,4 +29,8 @@ UPDATE book
 SET price = 0.9 * price
 WHERE amount BETWEEN 5 AND 10;
 
+UPDATE book
+SET buy = IF(buy > amount, amount, buy), 
+    price = IF(buy = 0, 0.9 * price, price);
+
 SELECT * FROM book;
