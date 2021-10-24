@@ -33,4 +33,9 @@ UPDATE book
 SET buy = IF(buy > amount, amount, buy), 
     price = IF(buy = 0, 0.9 * price, price);
 
+UPDATE book, supply
+SET book.amount = book.amount + supply.amount,
+    book.price = ROUND((book.price + supply.price) / 2, 2)
+WHERE book.title = supply.title AND book.author = supply.author;
+    
 SELECT * FROM book;
