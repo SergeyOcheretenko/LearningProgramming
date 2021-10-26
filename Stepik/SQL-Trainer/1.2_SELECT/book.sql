@@ -19,3 +19,6 @@ FROM book;
 
 SELECT title AS Название, author AS Автор
 FROM book;
+
+SELECT title, amount, amount * 1.65 as pack
+from book;
