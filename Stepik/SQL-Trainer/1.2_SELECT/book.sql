@@ -22,3 +22,6 @@ FROM book;
 
 SELECT title, amount, amount * 1.65 as pack
 from book;
+
+SELECT title, author, amount, ROUND(price * 0.7, 2) AS new_price
+FROM book;
