@@ -13,3 +13,6 @@ VALUES ('Мастер и Маргарита', 'Булгаков М.А.', 670.99,
 ('Братья Карамазовы', 'Достоевский Ф.М.', 799.01, 2);
 
 SELECT * FROM book;
+
+SELECT author, title, price
+FROM book;
