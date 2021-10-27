@@ -46,3 +46,8 @@ WHERE (price < 500 OR price > 600) AND price * amount >= 5000;
 SELECT title, author
 FROM book
 WHERE (price BETWEEN 540.50 AND 800) AND amount IN (2, 3, 5, 7);
+
+SELECT title, author 
+FROM book
+WHERE title LIKE "_% _%" AND (author LIKE "% С._." OR author LIKE "% _.С.")
+ORDER BY title ASC;
