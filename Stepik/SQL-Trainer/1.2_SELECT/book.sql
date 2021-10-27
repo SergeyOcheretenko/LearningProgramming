@@ -34,6 +34,11 @@ SELECT author, title, price
 FROM book
 WHERE amount < 10;
 
+SELECT author, title
+FROM book
+WHERE amount BETWEEN 2 AND 14
+ORDER BY author DESC, title ASC
+
 SELECT title, author, price, amount
 FROM book
 WHERE (price < 500 OR price > 600) AND price * amount >= 5000;
