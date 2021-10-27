@@ -51,3 +51,9 @@ SELECT title, author
 FROM book
 WHERE title LIKE "_% _%" AND (author LIKE "% С._." OR author LIKE "% _.С.")
 ORDER BY title ASC;
+
+SELECT 'Дарья Донцова' as author, 
+    CONCAT('Евлампия Романова и ', title) AS title,
+    ROUND(price * 1.42, 2) AS price
+FROM book
+ORDER BY price DESC
