@@ -42,3 +42,12 @@ ORDER BY Стоимость DESC
 SELECT ROUND(AVG(price), 2) AS Средняя_цена, SUM(price * amount) AS Стоимость
 FROM book
 WHERE amount BETWEEN 5 AND 14;
+
+SELECT author,
+    COUNT(title) AS Количество_произведений,
+    MIN(price) AS Минимальная_цена,
+    SUM(amount) AS Количество_книг
+FROM book
+WHERE amount > 1 AND price > 500
+GROUP BY author
+HAVING COUNT(title) > 1;
