@@ -33,6 +33,12 @@ GROUP BY author;
 SELECT MIN(price) AS Минимальная_цена, MAX(price) AS Максимальная_цена, ROUND(AVG(price), 2) AS Средняя_цена
 FROM book;
 
+SELECT author, SUM(price * amount) AS Стоимость 
+FROM book
+WHERE title <> 'Идиот' AND title <> 'Белая гвардия'
+GROUP BY author
+HAVING SUM(price * amount) > 5000
+ORDER BY Стоимость DESC
 SELECT ROUND(AVG(price), 2) AS Средняя_цена, SUM(price * amount) AS Стоимость
 FROM book
 WHERE amount BETWEEN 5 AND 14;
