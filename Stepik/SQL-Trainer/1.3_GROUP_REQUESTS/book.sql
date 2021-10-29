@@ -23,3 +23,9 @@ FROM book;
 SELECT author, MIN(price) AS Минимальная_цена, MAX(price) AS Максимальная_цена, AVG(price) AS Средняя_цена
 FROM book
 GROUP BY author;
+
+SELECT author, ROUND(SUM(price * amount), 2) as Стоимость,
+    ROUND(SUM(price * amount) * 18 / 118, 2) as НДС,
+    ROUND(SUM(price * amount) / 1.18, 2) as Стоимость_без_НДС
+FROM book
+GROUP BY author;
