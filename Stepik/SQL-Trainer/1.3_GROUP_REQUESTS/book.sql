@@ -14,5 +14,8 @@ VALUES ('Мастер и Маргарита', 'Булгаков М.А.', 670.99,
 ('Игрко, 'Достоевский Ф.М.', 480.50, 10),
 ('Стихотворения и поэмы', 'Есенин С.А.', 650, 15);
 
- SELECT DISTINCT amount
+SELECT DISTINCT amount
+FROM book;
+
+SELECT DISTINCT amount
 FROM book;
