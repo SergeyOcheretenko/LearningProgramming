@@ -1,0 +1,13 @@
+def ages(object):
+  result = {}
+  for name in object:
+    result[name] = object[name]['died'] - object[name]['born']
+  return result
+
+persons = {
+  'lenin': { 'born': 1870, 'died': 1924 },
+  'mao': { 'born': 1893, 'died': 1976 },
+  'gandhi': { 'born': 1869, 'died': 1948 },
+  'hirohito': { 'born': 1901, 'died': 1989 },
+}
+print(ages(persons))
