@@ -7,12 +7,13 @@ let timer = null;
 
 const event = () => {
   if (count === MAX_VALUE) {
+    console.log('THE END');
     clearInterval(timer);
     return;
   }
-  const date = new Date();
-  console.dir({ count, date });
+  console.dir({ count, date: new Date() });
   count++;
 };
 
+console.log('BEGIN');
 timer = setInterval(event, INTERVAL);
