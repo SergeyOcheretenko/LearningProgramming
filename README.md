@@ -3,17 +3,17 @@
 The following sources of information were and are used in the training:
 
 ### HowProgrammingWorks lectures
-+ GitHub "HowProgrammingWorks" - [link](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md).
++ GitHub "[HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)".
 
 ### Udemy
-+ Полное руководство по Python 3: от новичка до специалиста - [link](https://www.udemy.com/course/bestpython/).
-+ Data Science и Machine Learning на Python 3 с нуля - [link](https://www.udemy.com/course/data-science-python-3/).
-+ The Data Science Course 2021: Complete Data Science Bootcamp - [link](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/).
++ [Полное руководство по Python 3: от новичка до специалиста](https://www.udemy.com/course/bestpython/).
++ [Data Science и Machine Learning на Python 3 с нуля](https://www.udemy.com/course/data-science-python-3/).
++ [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/).
 
 ### Stepik
-+ "Поколение Python": курс для начинающих - [link](https://stepik.org/58852).
-+ Интерактивный тренажер по SQL - [link](https://stepik.org/63054).
-+ Big Data и Data Science: начни погружение с нуля - [link](https://stepik.org/101687).
++ ["Поколение Python": курс для начинающих](https://stepik.org/58852).
++ [Интерактивный тренажер по SQL](https://stepik.org/63054).
++ [Big Data и Data Science: начни погружение с нуля](https://stepik.org/101687).
 
 ### Books
 + Грокаем алгоритмы (Адитья Бхаргава)
