@@ -3,7 +3,7 @@
 The following sources of information were and are used in the training:
 
 ### HowProgrammingWorks lectures
-+ GitHub "[HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)".
++ GitHub "[HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)" - [просмотренные лекции](.JavaScript/HowProgrammingWorks/README.md).
 
 ### Udemy
 + [Полное руководство по Python 3: от новичка до специалиста](https://www.udemy.com/course/bestpython/).
