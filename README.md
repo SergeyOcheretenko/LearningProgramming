@@ -14,6 +14,7 @@ The following sources of information were and are used in the training:
 + ["Поколение Python": курс для начинающих](https://stepik.org/58852).
 + [Интерактивный тренажер по SQL](https://stepik.org/63054).
 + [Big Data и Data Science: начни погружение с нуля](https://stepik.org/101687).
++ [Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/13929).
 
 ### Books
 + Грокаем алгоритмы (Адитья Бхаргава)
