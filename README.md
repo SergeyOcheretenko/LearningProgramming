@@ -15,6 +15,7 @@ The following sources of information were and are used in the training:
 + [Интерактивный тренажер по SQL](https://stepik.org/63054).
 + [Big Data и Data Science: начни погружение с нуля](https://stepik.org/101687).
 + [Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/13929).
++ [JavaScript для начинающих](https://stepik.org/2223).
 
 ### Books
 + Грокаем алгоритмы (Адитья Бхаргава)
