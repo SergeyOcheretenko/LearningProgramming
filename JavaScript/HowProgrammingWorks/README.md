@@ -5,4 +5,4 @@
 + [💻 Базовый синтаксис JavaScript](https://www.youtube.com/watch?v=xJn3k1f4BiM) 
 + [💻 Семинар: Обсуждение плана и материалов курса «Основы программирования»](https://www.youtube.com/watch?v=bQMTbRWrteU)
 + [💻Базовый синтаксис JavaScript, продолжение](https://www.youtube.com/watch?v=qa-XleqA0JU)
-
++ [💻 Семинар: Базовый синтаксис языка JavaScript](https://www.youtube.com/watch?v=PGqjTXQe_qw)
