@@ -18,5 +18,8 @@ The following sources of information were and are used in the training:
 + [JavaScript для начинающих](https://stepik.org/2223).
 + [Программирование на Golang](https://stepik.org/course/54403/).
 
+### Other
++ [A tour of Go](https://go.dev/tour/list).
+
 ### Books
 + Грокаем алгоритмы (Адитья Бхаргава)
