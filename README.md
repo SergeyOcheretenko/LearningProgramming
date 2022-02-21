@@ -1,5 +1,9 @@
 <h1 align="center">Sources</h1>
 
+These are the resources I used/use to learn programming languages, technologies, algorithms, data structures, etc. They are mostly free courses on platforms or books.
+
+I also leave IDEs, text editors, and guides on how to set up a runtime environment for each programming language.
+
 <h2 align="center">JavaScript</h4>
 
 ### HowProgrammingWorks lectures
