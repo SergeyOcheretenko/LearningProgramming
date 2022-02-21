@@ -17,7 +17,7 @@
 + [Data Science и Machine Learning на Python 3 с нуля](https://www.udemy.com/course/data-science-python-3/).
 + [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/).
 
-## Go
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Go
 
 **A tour of Go**
 + [A tour of Go](https://go.dev/tour/list).
