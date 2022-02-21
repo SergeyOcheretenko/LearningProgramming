@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-<h4 align="center">JavaScript</h4>
+<h2 align="center">JavaScript</h4>
 
 **HowProgrammingWorks lectures**
 + GitHub "[HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)" - [просмотренные лекции](./JavaScript/HowProgrammingWorks/README.md).
@@ -12,7 +12,7 @@
 + [Hexlet: Введение в программирование (JavaScript ES6)](https://stepik.org/13929).
 + [JavaScript для начинающих](https://stepik.org/2223).
 
-<h4 align="center">Python</h4>
+<h2 align="center">Python</h4>
 
 **Stepik**
 + ["Поколение Python": курс для начинающих](https://stepik.org/58852).
