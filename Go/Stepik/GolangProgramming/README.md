@@ -14,13 +14,13 @@
 + [Решение задач](./Basics/Exercises)
 
 ### Функции, структуры, указатели
-+ Функции
-+ Пакеты
-+ Указатели
-+ Структуры
-+ Строки
-+ Обработка ошибок
-+ Решение задач
++ [Функции](./Structures/Functions)
++ [Пакеты](./Structures/Packages)
++ [Указатели](./Structures/Pointers)
++ [Структуры](./Structures/Struct)
++ [Строки](./Structures/Strings)
++ [Обработка ошибок](./Structures/Errors)
++ [Решение задач](./Structures/Exercises)
 
 ### Map, файлы, интерфейсы, многопоточность
 + Отображения (map)
