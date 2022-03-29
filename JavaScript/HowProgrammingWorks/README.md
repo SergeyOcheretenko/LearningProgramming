@@ -7,5 +7,5 @@
 + [💻 Базовый синтаксис JavaScript, продолжение](https://www.youtube.com/watch?v=qa-XleqA0JU)
 + [💻 Семинар: Базовый синтаксис языка JavaScript](https://www.youtube.com/watch?v=PGqjTXQe_qw)
 + [💻 Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript](https://www.youtube.com/watch?v=pn5myCmpV2U)
-  + Примеры кода (функции, лямбды, анонимные функции): https://github.com/SergeyOcheretenko/LearningProgramming/tree/main/JavaScript/HowProgrammingWorks/LectureCode/Functions
-  + Примеры кода (контекст, замыкания): https://github.com/SergeyOcheretenko/LearningProgramming/tree/main/JavaScript/HowProgrammingWorks/LectureCode/Closure
+  + Примеры кода: [Функции, лямбды, анонимные функции](./LectureCode/Functions)
+  + Примеры кода: [Контексты, замыкания](./LectureCode/Closure)
