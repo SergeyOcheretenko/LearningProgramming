@@ -10,3 +10,4 @@
   + Примеры кода: [Функции, лямбды, анонимные функции](./LectureCode/Functions)
   + Примеры кода: [Контексты, замыкания](./LectureCode/Closure)
 + [💻 Массивы, объекты, классы, прототипы в JavaScript](https://www.youtube.com/watch?v=VBMGnAPfmsY) - in process
++ [https://www.youtube.com/watch?v=enHA1CRkJe0&t=3425s](https://www.youtube.com/watch?v=enHA1CRkJe0&t=3425s)
