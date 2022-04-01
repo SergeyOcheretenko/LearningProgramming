@@ -1,0 +1,25 @@
+{
+    "ID": 134,
+    "Number":"IP-03",
+    "Year": 2,
+    "Students":[
+        {
+            "LastName":"Ocheretenko",
+            "FirstName":"Serhii",
+            "MiddleName":"Serhiyovich",
+            "Birthday":"17.10.2003",
+            "Address":"Kiev",
+            "Phone":"-",
+            "Rating":[1,2,3]
+        },
+        {
+            "LastName":"Ionova",
+            "FirstName":"Julia",
+            "MiddleName":"Vitaliivna",
+            "Birthday":"17.10.2003",
+            "Address":"Dnipro",
+            "Phone":"-",
+            "Rating":[5,2]
+        }
+    ]
+}
