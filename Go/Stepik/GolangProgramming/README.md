@@ -28,7 +28,7 @@
 + [Анонимные функции](./Interfaces/Anonymous)
 + [Интерфейсы](./Interfaces/Interfaces)
 + [Работа с файлами](./Interfaces/Files/)
-+ JSON
++ [JSON](./Interfaces/JSON/)
 + Работа с датой и временем
 + Параллелизм (часть 1)
 + Параллелизи (часть 2)
