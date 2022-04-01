@@ -30,6 +30,5 @@
 + [Работа с файлами](./Interfaces/Files/)
 + [JSON](./Interfaces/JSON/)
 + [Работа с датой и временем](./Interfaces/Time/)
-+ Параллелизм (часть 1)
-+ Параллелизи (часть 2)
-
++ [Параллелизм (часть 1)](./Interfaces/Channels/)
++ [Параллелизи (часть 2)](./Interfaces/Channels)
