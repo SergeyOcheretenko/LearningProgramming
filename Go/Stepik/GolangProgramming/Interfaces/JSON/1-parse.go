@@ -30,23 +30,23 @@ type File struct {
 
 func main() {
     var (
-		s File
+		savedData File
 		sum float32 = 0.0
 		count float32 = 0.0
 	)
     
-	file, _ := os.Open("test.json")
+	file, _ := os.Open("./data/test.json")
 
 	data, err := ioutil.ReadAll(file)
     if err != nil {
         panic(err)
     }
     
-    if decod_err := json.Unmarshal(data, &s); decod_err != nil {
+    if decod_err := json.Unmarshal(data, &savedData); decod_err != nil {
         panic(decod_err)
     }
     
-    for _, elem := range s.Students {
+    for _, elem := range savedData.Students {
         rating := elem.Rating
         sum += float32(len(rating))
         count++
