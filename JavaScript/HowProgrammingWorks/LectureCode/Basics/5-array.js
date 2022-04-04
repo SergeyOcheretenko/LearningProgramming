@@ -7,7 +7,7 @@ const welcome = person => {
 const persons = [
   { name: 'Marcus Aurelius' },
   { name: 'Mao Zedong' },
-  { name: 'Rene Descartes' }
+  { name: 'Rene Descartes' },
 ];
 
 for (const person of persons) {
