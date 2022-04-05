@@ -11,6 +11,6 @@
   + Примеры кода: [Функции, лямбды, анонимные функции](./LectureCode/Functions)
   + Примеры кода: [Контексты, замыкания](./LectureCode/Closure)
 + [Массивы, объекты, классы, прототипы в JavaScript](https://www.youtube.com/watch?v=VBMGnAPfmsY) - in process
-  Примеры кода: [Структуры данных](./LectureCode/DataStructures)
+  + Примеры кода: [Структуры данных](./LectureCode/DataStructures)
 + [Языки программирования: обзор, сравнение, выбор](https://www.youtube.com/watch?v=enHA1CRkJe0&t=3425s)
 + Семинар: [JavaScript: Ответы на вопросы](https://www.youtube.com/watch?v=wqkQ6eslyzY&t=1165s)
