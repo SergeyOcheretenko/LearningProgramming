@@ -5,4 +5,4 @@
 
 GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgrammingWorks)" и YouTube-канал [Тимура Шемсединова](https://www.youtube.com/c/TimurShemsedinov) - основной и наиболее рекомендуемый источник для изучения JavaScript, Node.js и Backend-разработки. 
 
-> Примеры кода и просмотренные мной лекции: [HowProggrammingWorks](./HowProggrammingWorks)
+> Примеры кода и просмотренные мной лекции: [HowProgrammingWorks](./HowProgrammingWorks)
