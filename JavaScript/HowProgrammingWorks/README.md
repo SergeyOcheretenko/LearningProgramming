@@ -16,3 +16,4 @@
   + Примеры кода: [Классы, прототипы, наследование](./LectureCode/Prototype)
 + [Языки программирования: обзор, сравнение, выбор](https://www.youtube.com/watch?v=enHA1CRkJe0&t=3425s)
 + Семинар: [JavaScript: Ответы на вопросы](https://www.youtube.com/watch?v=wqkQ6eslyzY&t=1165s)
++ [Частичное применение и каррирование в JavaScript](https://www.youtube.com/watch?v=ND8KQ5xjk7o) - in progress
