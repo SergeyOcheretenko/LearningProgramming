@@ -9,6 +9,12 @@ GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgr
 
 ## Habr
 
-Решение [50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
+[50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
 
 > Решение задач: [Habr](./Habr/)
+
+## Codewars
+
+Задачи, алгоритмы и проекты, решённые на платформе [Codewars](https://www.codewars.com/). Мой профиль: [Ocheretenko](https://www.codewars.com/users/Ocheretenko).
+
+> Решение задач: [Codewars](./Codewars/)
