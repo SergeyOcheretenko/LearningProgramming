@@ -18,3 +18,9 @@ GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgr
 Задачи, алгоритмы и проекты, решённые на платформе [Codewars](https://www.codewars.com/). Мой профиль: [Ocheretenko](https://www.codewars.com/users/Ocheretenko).
 
 > Решение задач: [Codewars](./Codewars/)
+
+## Archive
+
+Архив выполненых задач и проектов, код для практики по структурам данных и алгоритмам. 
+
+> Архив: [Archive](./Archive/)
