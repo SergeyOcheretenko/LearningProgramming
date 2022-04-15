@@ -4,5 +4,9 @@ This is a repository-blog that contains courses used for training, code and task
 
 ## Navigation
 + [Index JavaScript and Node.js](./JavaScript/)
+  + [Code Archive](./JavaScript/Archive)
+  + [HowProgrammingWorks lectures and code examples](./JavaScript/HowProgrammingWorks)
+  + [Solutions to 50 Habr problems](./JavaScript/Habr)
+  + [Solving tasks from Codewars](./JavaScript/Codewars)
 + [Index Golang](./Golang/)
 + [Index Python](./Python/)
