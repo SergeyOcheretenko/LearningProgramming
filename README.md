@@ -13,5 +13,5 @@ This is a repository-blog that contains courses used for training, code and task
 + [Index Python](./Python/)
   + [Code examples from courses](./Python/Stepik)
   + [Code Archive](./Python/Archive)
-  + [Solutions to 50 Habr problems](./Python/Habr50)
+  + [Solutions to 50 Habr problems](./Python/Habr)
   + [Examples of code in Jupyter Notebook](./Python/Jupyter)
