@@ -5,7 +5,7 @@
 
 [50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
 
-> Решение задач: [Habr](./Habr50/)
+> Решение задач: [Habr](./Habr/)
 
 ## Stepik
 
