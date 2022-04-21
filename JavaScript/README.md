@@ -7,6 +7,11 @@ GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgr
 
 > Примеры кода и просмотренные мной лекции: [HowProgrammingWorks](./HowProgrammingWorks)
 
+## FreeCodeCamp
+Решение задач, алгоритмов и экзаменационных проектов с платформы [freeCodeCamp](https://www.freecodecamp.org/).
+
+> Решение задач: [freeCodeCamp](./freeCodeCamp/)
+
 ## Habr
 
 [50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
