@@ -8,6 +8,7 @@ This is a repository-blog that contains courses used for training, code and task
   + [HowProgrammingWorks lectures and code examples](./JavaScript/HowProgrammingWorks)
   + [Solutions to 50 Habr problems](./JavaScript/Habr)
   + [Solving tasks from Codewars](./JavaScript/Codewars)
+  + [Solving tasks from freeCodeCamp](./JavaScript/freeCodeCamp)
 + [Index Golang](./Golang/)
   + [Code examples from courses](./Golang/Stepik)
 + [Index Python](./Python/)
