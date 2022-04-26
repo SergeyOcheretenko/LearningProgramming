@@ -18,3 +18,4 @@
 + Семинар: [JavaScript: Ответы на вопросы](https://www.youtube.com/watch?v=wqkQ6eslyzY&t=1165s)
 + [Частичное применение и каррирование в JavaScript](https://www.youtube.com/watch?v=ND8KQ5xjk7o)
   + Примеры кода: [Частичное применение, каррирование, замыкания](./LectureCode/PartialApplication)
++ [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
