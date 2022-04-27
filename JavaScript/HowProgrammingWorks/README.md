@@ -20,3 +20,4 @@
   + Примеры кода: [Частичное применение, каррирование, замыкания](./LectureCode/PartialApplication)
 + [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
   + Примеры кода: [Колбеки, Event Emitter](./LectureCode/Callbacks)
+  + Примеры кода: [Функции высшего порядка, замыкания, обёртки](./LectureCode/HigherOrderFunctions)
