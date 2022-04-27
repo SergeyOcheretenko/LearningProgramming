@@ -19,3 +19,4 @@
 + [Частичное применение и каррирование в JavaScript](https://www.youtube.com/watch?v=ND8KQ5xjk7o)
   + Примеры кода: [Частичное применение, каррирование, замыкания](./LectureCode/PartialApplication)
 + [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
+  + Примеры кода: [Колбеки, Event Emitter](./LectureCode/Callbacks)
