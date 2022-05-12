@@ -22,3 +22,4 @@
   + Примеры кода: [Колбеки, Event Emitter](./LectureCode/Callbacks)
   + Примеры кода: [Функции высшего порядка, замыкания, обёртки](./LectureCode/HigherOrderFunctions)
 + [История развития языков программирования](https://www.youtube.com/watch?v=qqz0VSaNxuw) - in the process
++ [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs) - in the progress
