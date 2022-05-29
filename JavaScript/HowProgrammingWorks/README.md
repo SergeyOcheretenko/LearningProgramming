@@ -24,4 +24,4 @@
 + [История развития языков программирования](https://www.youtube.com/watch?v=qqz0VSaNxuw) - in the process
 + [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
 + [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
-+ [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4) - in the process
++ [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
