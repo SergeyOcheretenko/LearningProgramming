@@ -1,31 +1,28 @@
 # JavaScript
-Это короткая навигация по проектам, выполненым в ходе обучения JavsScript и Node.js, образовательным курсам и платформам, которые были использованы для обучения, и примерам кода, которые демонстрируют использование технологий, которые были изучены в процессе обучения.
+This is a short navigation through the projects completed during JavsScript and Node.js training, the educational courses and platforms that were used for training, and the code examples that demonstrate the use of the technologies that were learned during training.
 
 ## HowProgrammingWorks
+GitHub-organization "[HowProgrammingWorks](https://github.com/HowProgrammingWorks)" and YouTube-channel [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov) are the main and most recommended source for learning JavaScript, Node.js and Backend-development. 
 
-GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgrammingWorks)" и YouTube-канал [Тимура Шемсединова](https://www.youtube.com/c/TimurShemsedinov) - основной и наиболее рекомендуемый источник для изучения JavaScript, Node.js и Backend-разработки. 
-
-> Примеры кода и просмотренные мной лекции: [HowProgrammingWorks](./HowProgrammingWorks)
+> Examples of code and an index of lectures viewed: [HowProgrammingWorks](./HowProgrammingWorks)
 
 ## FreeCodeCamp
-Решение задач, алгоритмов и экзаменационных проектов с платформы [freeCodeCamp](https://www.freecodecamp.org/).
+Solving problems, algorithms, and exam projects from the educational platform in Full Stack direction  [freeCodeCamp](https://www.freecodecamp.org/).
 
-> Решение задач: [freeCodeCamp](./freeCodeCamp/)
+> Problem solving: [freeCodeCamp](./freeCodeCamp/)
 
 ## Habr
+[50 problems on algorithms and data structures](https://habr.com/ru/company/timeweb/blog/579080/), taken from an article on [habr.com](https://habr.com/).
 
-[50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
-
-> Решение задач: [Habr](./Habr/)
+> Problem solving: [Habr](./Habr/)
 
 ## Codewars
+Tasks, algorithms and projects solved on the [Codewars](https://www.codewars.com/) platform. 
+Profile: [Ocheretenko](https://www.codewars.com/users/Ocheretenko).
 
-Задачи, алгоритмы и проекты, решённые на платформе [Codewars](https://www.codewars.com/). Мой профиль: [Ocheretenko](https://www.codewars.com/users/Ocheretenko).
-
-> Решение задач: [Codewars](./Codewars/)
+> Problem solving: [Codewars](./Codewars/)
 
 ## Archive
+Archive of completed tasks, projects and code for practice on data structures, algorithms and the use of different technologies.  
 
-Архив выполненых задач и проектов, код для практики по структурам данных и алгоритмам. 
-
-> Архив: [Archive](./Archive/)
+> Archive: [Archive](./Archive/)
