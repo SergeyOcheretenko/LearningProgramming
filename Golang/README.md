@@ -1,12 +1,10 @@
 # Golang
-
-Код, написанный во время изучения языка программирования Golang и материалы, используемые для обучения.
+Code written during the study of the Golang programming language and the materials used for learning.
 
 ## Stepik
+Tasks performed during certification courses on the [Stepik](https://stepik.org/) platform. 
 
-Задачи, выполнение во время прохождения сертификационных курсов на платформе [Stepik](https://stepik.org/). 
-
-> Stepik courses: [решение задач](./Stepik)
+> Problem solving: [Stepik courses](./Stepik)
 
 ## Курсы
 + [Программирование на Golang](https://stepik.org/54403)
