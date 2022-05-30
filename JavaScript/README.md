@@ -8,7 +8,7 @@ GitHub-организация "[HowProgrammingWorks](https://github.com/HowProgr
 > Примеры кода и просмотренные мной лекции: [HowProgrammingWorks](./HowProgrammingWorks)
 
 ## FreeCodeCamp
-Решение задач, алгоритмов и экзаменационных проектов с платформы [freeCodeCamp](https://www.freecodecamp.org/).
+Решение задач, алгоритмов и экзаменационных проектов с платформы [freeCodeCamp.org](https://www.freecodecamp.org/).
 
 > Решение задач: [freeCodeCamp](./freeCodeCamp/)
 
