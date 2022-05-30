@@ -1,20 +1,17 @@
 # Python
-Это короткая навигация по проектам, выполненым в ходе обучения Python, NumPy Pandas, образовательным курсам и платформам, которые были использованы для обучения, и примерам кода, которые демонстрируют использование технологий, которые были изучены в процессе обучения.
+This is a short navigation through the projects completed during the Python, NumPy training, the educational courses and platforms that were used for the training, and the code examples that demonstrate the use of the technologies that were learned during the training.
 
 ## Habr
+[50 problems on algorithms and data structures](https://habr.com/ru/company/timeweb/blog/579080/), taken from an article on [habr.com](https://habr.com/).
 
-[50 задач на алгоритмы и структуры данных](https://habr.com/ru/company/timeweb/blog/579080/), взятые с известного источника - [Habr](https://habr.com/).
-
-> Решение задач: [Habr](./Habr/)
+> Problem solving: [Habr](./Habr/)
 
 ## Stepik
+Tasks performed during certification courses on the [Stepik](https://stepik.org/) platform. 
 
-Задачи, выполнение во время прохождения сертификационных курсов на платформе [Stepik](https://stepik.org/). 
-
-> Stepik courses: [решение задач](./Stepik)
+> Problem solving: [Stepik courses](./Stepik)
 
 ## Archive
+Archive of completed tasks, projects and code for practice on data structures, algorithms and the use of different technologies.  
 
-Архив выполненых задач и проектов, код для практики по структурам данных и алгоритмам. 
-
-> Архив: [Archive](./Archive/)
+> Archive: [Archive](./Archive/)
