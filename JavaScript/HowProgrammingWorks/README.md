@@ -27,3 +27,6 @@
 + [Антипаттерны общие для всех парадигм](https://youtu.be/NMUsUiFokr4)
 + [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
   + Примеры кода: [console, process, stdin/stdout](./LectureCode/CommandLine/)
++ [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
+  + Чеининг: [Prototype, Class, functors](./LectureCode/Chaining/)
+  + Обработка ошибок: [try/catch, Promise.catch, process uncaughtException](./LectureCode/Errors/)
