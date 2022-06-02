@@ -30,3 +30,5 @@
 + [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
   + Чеининг: [Prototype, Class, functors](./LectureCode/Chaining/)
   + Обработка ошибок: [try/catch, Promise.catch, process uncaughtException](./LectureCode/Errors/)
++ [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
+  + Примеры кода: [Рекурсия, стек вызовов](./LectureCode/Recursion/)
