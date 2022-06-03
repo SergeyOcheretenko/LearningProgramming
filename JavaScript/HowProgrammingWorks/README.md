@@ -32,3 +32,5 @@
   + Обработка ошибок: [try/catch, Promise.catch, process uncaughtException](./LectureCode/Errors/)
 + [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
   + Примеры кода: [Рекурсия, стек вызовов](./LectureCode/Recursion/)
++ [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
+  + Примеры кода: [for in, for of, протокол итерирования](./LectureCode/Iteration/)
