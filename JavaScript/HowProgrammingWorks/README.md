@@ -34,3 +34,4 @@
   + Примеры кода: [Рекурсия, стек вызовов](./LectureCode/Recursion/)
 + [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
   + Примеры кода: [for in, for of, протокол итерирования](./LectureCode/Iteration/)
++ [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
