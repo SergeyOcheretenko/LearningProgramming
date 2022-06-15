@@ -8,11 +8,11 @@ GitHub-organization "[HowProgrammingWorks](https://github.com/HowProgrammingWork
 ## Courses
 A list of courses and educational platforms that were used in the learning process, as well as completed tasks, projects, etc.
 
-### FreeCodeCamp
+**FreeCodeCamp**
 + [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
   + Problem solving: [freeCodeCamp](./freeCodeCamp/)
 
-### Udemy
+**Udemy**
 + [Node.js - основы и построение архитектуры приложений](https://www.udemy.com/course/nodejs-start/)  
 + [TypeScript - полный курс и паттерны проектирования](https://www.udemy.com/course/typescript-full/)  
 + [NestJS - современный backend на TypeScript и Node JS](https://www.udemy.com/course/nestjs-backend-typescript-node-js/)  
