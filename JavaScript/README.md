@@ -2,9 +2,10 @@
 This is a short navigation through the projects completed during JavsScript and Node.js training, the educational courses and platforms that were used for training, and the code examples that demonstrate the use of the technologies that were learned during training.
 
 ## HowProgrammingWorks
-GitHub-organization "[HowProgrammingWorks](https://github.com/HowProgrammingWorks)" and YouTube-channel [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov) are the main and most recommended source for learning JavaScript, Node.js and Backend-development.
++ GitHub-organization "[HowProgrammingWorks](https://github.com/HowProgrammingWorks)" 
++ YouTube-channel [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov)
 
-+ Examples of code and an index of lectures viewed: [HowProgrammingWorks](./HowProgrammingWorks)
+Examples of code and an index of lectures viewed: [HowProgrammingWorks](./HowProgrammingWorks)
 
 ## Courses
 A list of courses and educational platforms that were used in the learning process, as well as completed tasks, projects, etc.  
@@ -12,19 +13,19 @@ A list of courses and educational platforms that were used in the learning proce
 **FreeCodeCamp**
 + [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
-More about freeCodeCamp courses: [freeCodeCamp index](./freeCodeCamp/)
+More about freeCodeCamp courses: [freeCodeCamp index](./Courses/freeCodeCamp/)
 
 **Udemy**
 + [Node.js - основы и построение архитектуры приложений](https://www.udemy.com/course/nodejs-start/)
 + [TypeScript - полный курс и паттерны проектирования](https://www.udemy.com/course/typescript-full/)
 + [NestJS - современный backend на TypeScript и Node JS](https://www.udemy.com/course/nestjs-backend-typescript-node-js/)
 
-More about Udemy courses: [Udemy index](./Udemy/)
+More about Udemy courses: [Udemy index](./Courses/Udemy/)
 
 ## Habr
 [50 problems on algorithms and data structures](https://habr.com/ru/company/timeweb/blog/579080/), taken from an article on [habr.com](https://habr.com/).
 
-+ Problem solving: [Habr problems](./Habr/)
++ Problem solving: [Habr problems](./Practice/Habr/)
 
 ## Codewars
 Tasks, algorithms and projects solved on the [Codewars](https://www.codewars.com/) platform. Profile: [Ocheretenko](https://www.codewars.com/users/Ocheretenko).
